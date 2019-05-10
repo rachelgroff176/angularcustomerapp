@@ -1,10 +1,10 @@
-<b><u>Angular Customer App</u></b>
+# Angular Customer App
 
-This app was created using a tutorial (see link above).
+This app was created using a tutorial by Dan Wahlin, found here: https://scrimba.com/playlist/pQxesM
 
 To find the deployed app, see my Netflify page: https://rachelgroff176-angularcustomerapp.netlify.com/
 
-<b><u>Here is more information about using Angular and the CLI:</u></b>
+# Here is more information about using Angular and the CLI:
 
 # AngularCustomerApp
 
