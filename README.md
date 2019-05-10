@@ -1,3 +1,11 @@
+<b><u>Angular Customer App</u></b>
+
+This app was created using a tutorial (see link above).
+
+To find the deployed app, see my Netflify page: https://rachelgroff176-angularcustomerapp.netlify.com/
+
+<b><u>Here is more information about using Angular and the CLI:</u></b>
+
 # AngularCustomerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
